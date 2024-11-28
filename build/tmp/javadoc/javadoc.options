@@ -1,0 +1,17 @@
+-classpath '/Users/najibbardash/IdeaProjects/library-gradle/build/classes/java/main:/Users/najibbardash/IdeaProjects/library-gradle/build/resources/main'
+-d '/Users/najibbardash/IdeaProjects/library-gradle/build/docs/javadoc'
+-doctitle 'library-gradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'library-gradle 1.0-SNAPSHOT API'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/ui/Main.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/BookNotFoundException.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/Material.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/LoanNotFoundException.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/Customer.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/LoanAlreadyExistsException.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/Loan.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/BookCatalog.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/models/Book.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/utilities/LoanStatus.java'
+'/Users/najibbardash/IdeaProjects/library-gradle/src/main/java/utilities/GenderType.java'
