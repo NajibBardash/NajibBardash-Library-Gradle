@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="models.LoanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-29T20:50:44" hostname="BigMac.local" time="0.005">
+<testsuite name="models.LoanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-29T21:05:39" hostname="BigMac.local" time="0.005">
   <properties/>
   <testcase name="testDueDate()" classname="models.LoanTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
